@@ -19,7 +19,4 @@ function twoSum(arr, target) {
     }
     return [];
 }
-
-let arr = [3, 3];
-let target = 6;
-console.log(twoSum(arr,target));
+console.log(twoSum([3,3],6));
