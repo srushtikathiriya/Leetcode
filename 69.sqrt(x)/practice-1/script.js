@@ -3,5 +3,7 @@
 
 // You must not use any built-in exponent function or operator.
 
-let math = Math.sqrt(4)
-console.log(math);
+var mySqrt = function(x) {
+    return Math.floor(Math.sqrt(x));
+};
+console.log(mySqrt(4));
