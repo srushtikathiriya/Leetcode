@@ -12,9 +12,9 @@
 // Output: [0,0,1,1,2,2]
 
 // var sortColors = function(nums) {
-    // console.log(nums.sort((a,b)=>a-b));
+//     console.log(nums.sort((a,b)=>a-b));
 // };
-// console.log(sortColors([2,0,2,1,1,0]));
+// sortColors([2,0,2,1,1,0]);
 
 // Example 2:
 
@@ -26,6 +26,7 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 // var sortColors = function(nums) {
-    // console.log(nums.sort((a,b)=>a-b));
+//     console.log(nums.sort((a,b)=>a-b));
 // };
-// console.log(sortColors([2,0,1]));
+
+// sortColors([2,0,1]);
